@@ -17,7 +17,7 @@ and these 3 Node packages: [Express](https://www.npmjs.com/package/express) | [N
 
 ## Deployed Site
 
-This App is deployed on *Heroku* [click Here](https://scottjr101.github.io/GifTastic/) to view it.
+This App is deployed on *Heroku* [click Here](https://friendfinder1425.herokuapp.com/) to view it.
 
 ![FriendFinder](friend-finder.png)
 
