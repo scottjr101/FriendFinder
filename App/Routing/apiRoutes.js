@@ -1,4 +1,4 @@
-var friendData = require("../data/friends");
+var friendData = require("../Data/friends");
 
 function compareFriends(s1, s2) {
     var difference = 0;
